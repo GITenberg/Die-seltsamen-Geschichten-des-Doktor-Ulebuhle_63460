@@ -1,0 +1,47 @@
+_repo: Die-seltsamen-Geschichten-des-Doktor-Ulebuhle_63460
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fürst, Edmund
+    alias: Furst, Edmund
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '52457'
+    url: http://www.gutenberg.org/2009/agents/52457
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmund_F%C3%BCrst
+    - https://de.wikipedia.org/wiki/Edmund_F%C3%BCrst
+creator:
+  author:
+    agent_name: Bürgel, Bruno Hans
+    aliases:
+    - Burgel, Bruno Hans
+    - Bürgel, B. H. (Bruno Hans)
+    birthdate: 1875
+    deathdate: 1948
+    gutenberg_agent_id: '52456'
+    url: http://www.gutenberg.org/2009/agents/52456
+    wikipedia: https://de.wikipedia.org/wiki/Bruno_H._B%C3%BCrgel
+description: ''
+gutenberg_issued: '2020-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63460'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- !lcsh 'Short stories, German'
+- GITenberg
+tableOfContents: Ein Vorwort für die Großen -- Vom Doktor Ulebuhle -- Die versunkene
+  Stadt -- Der Wassertropfen -- Gespenster-Heinrich -- Der Diamant und seine Brüder
+  -- Der alte Baum -- Johann der Wunderbare -- Das Zündholz und die Kerze -- Der Weltuntergang
+  -- John Dolland, der Taucher -- Das Herz und die Taschenuhr -- Ein Tag auf dem Monde
+  -- Die Schwalbe und der Telegraphenpfahl -- Der Eisberg -- Die Busennadel -- Der
+  Tod in der Flasche -- Als die Sonne feierte -- Der gläserne Sarg -- Gebrüder Sturm
+  -- Die sonderbare Welt.
+title: Die seltsamen Geschichten des Doktor Ulebuhle
+url: http://www.gutenberg.org/ebooks/63460
