@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Edmund_F%C3%BCrst
     - https://de.wikipedia.org/wiki/Edmund_F%C3%BCrst
+covers:
+- cover_type: archival
+  image_path: 63460-h/images/cover.jpg
 creator:
   author:
     agent_name: Bürgel, Bruno Hans
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52456
     wikipedia: https://de.wikipedia.org/wiki/Bruno_H._B%C3%BCrgel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63460#Die-seltsamen-Geschichten-des-Doktor-Ulebuhle
 gutenberg_issued: '2020-10-14'
 gutenberg_type: Text
 identifiers:
